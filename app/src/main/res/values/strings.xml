@@ -1,4 +1,25 @@
 <resources>
     <string name="app_name">lab9</string>
     <string name="title_activity_maps">Map</string>
+    <string name="address">Address</string>
+    <string name="find_addres_button">Find Address</string>
+
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="no_address_found">no address found</string>
+    <string name="address_found">address found</string>
+    <string name="service_not_available">service not available</string>
+    <string name="invalid_lat_long_used">invalid lat long used</string>
+
+
+    <string name="text_name">Name: </string>
+    <string name="text_description">Description: </string>
+    <string name="text_geoLocation">Geolocation: </string>
+    <string name="text_longitud">Longitute: </string>
+    <string name="text_latitude">Latitude: </string>
+
+    <string name="error_name_empty">The name cant be empty</string>
+    <string name="error_description_empty">The description cant be empty</string>
+    <string name="error_longitute_empty">The longitute cant be empty</string>
+    <string name="error_latitute_empty">The latitute cant be empty</string>
+
 </resources>
